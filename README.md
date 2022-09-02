@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martín</h1>
-<h3 align="center">I'm graduate of the National University of Lanús (Buenos Aires, Argentina 🇦🇷). I always worked in commercial areas in important companies of various fields. However, I have been taking my first steps in the world of Front End development for a long time. I find myself acquiring new knowledge every day with a very clear objective: To continue improving myself through insertion in the IT labor market.</h3>
+<h3 align="center">I'm graduate of the Universidad Nacional de Lanús (Buenos Aires, Argentina 🇦🇷). I always worked in commercial areas in important companies of various fields. However, I have been taking my first steps in Front End development's world for a long time. I find myself acquiring new knowledge every day with a very clear objective: To continue improving myself through insertion in the IT labor market.</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/martin-bass](https://github.com/martin-bass)
