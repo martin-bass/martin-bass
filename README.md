@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mart%c3%adn-ariel-lopez-22187139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mart%c3%adn-ariel-lopez-22187139/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/martinariellopez22187139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mart%c3%adn-ariel-lopez-22187139/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/martinlopez_____/?hl=es-la" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/martinlopez_____/?hl=es-la" height="30" width="40" /></a>
 <a href="https://discord.gg/Martin-Lopez#9208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Martin-Lopez#9208" height="30" width="40" /></a>
 </p>
