@@ -2,7 +2,7 @@
 <h3 align="center">I'm graduate of the Universidad Nacional de Lanús (Buenos Aires, Argentina 🇦🇷). I always worked in commercial areas in important companies of various fields. However, I have been taking my first steps in Front End development's world for a long time. I find myself acquiring new knowledge every day with a very clear objective: To continue improving myself through insertion in the IT labor market.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://martinlopez-portfolio.vercel.app/](https://github.com/martin-bass)
+- 👨‍💻 All of my projects are available at [https://martinlopez-portfolio.vercel.app/](https://martinlopez-portfolio.vercel.app/)
 
 - 📫 How to reach me **martin_reym@hotmail.com**
 
